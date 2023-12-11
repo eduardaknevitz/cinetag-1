@@ -1,11 +1,12 @@
 .rodape {
-    display: flex;
-    justify-content: center;
-    background-color: var(--preto);
+  display: flex;
+  justify-content: center;
+  background-color: #f37a68;
+  /* color: var(--branco); */
 }
 
 .rodape h2 {
-    font-weight: 400;
-    font-size: 18px;
-    color: var(--branco);
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--branco);
 }

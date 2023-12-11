@@ -1,8 +1,10 @@
 :root {
-  --fonte: 'Montserrat', sans-serif;
-  --branco: #FFFFFF;
+  --fonte: "Montserrat", sans-serif;
+  --branco: #ffffff;
   --preto: #000000;
-  --cinza: #E2E2E2;
+  --cinza: #e2e2e2;
+  --coral-pink: #f37a68;
+  --blue: #8cb2fd;
 }
 
 body {
@@ -14,6 +16,6 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
