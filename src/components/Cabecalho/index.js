@@ -10,7 +10,7 @@ function Cabecalho() {
         <img src={logo} alt="Logo" style={{ width: "80px" }}></img>
       </Link>
       <nav>
-        <CabecalhoLink url="./">Home</CabecalhoLink>
+        <CabecalhoLink url="./">Inicio</CabecalhoLink>
         <CabecalhoLink url="./Favoritos">Favoritos</CabecalhoLink>
       </nav>
     </header>
